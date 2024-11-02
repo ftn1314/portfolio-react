@@ -1,4 +1,4 @@
-# [Live Demo](https://ftn-portfolio.netlify.app)
+# [Live Demo](https://ftn-portfolio.netlify.app/)
 
 # Hero Section
 ![Screenshot 2024-11-02 175609](https://github.com/user-attachments/assets/e3aa18a2-37fc-4e80-808b-c6861f699c6b)
