@@ -2,7 +2,7 @@ import React from 'react'
 import profilepic from '../assets/ftn1314.png'
 import { TypeAnimation } from 'react-type-animation'
 import ShinyEffext from './ShinyEffext'
-import resume from '../assets/ftn-resume.pdf'
+import resume from '../assets/ftn_new (1).pdf'
 const Hero = () => {
     return (
         <div className='grid md:grid-cols-2 place-items-center max-w-[1250px] mx-auto mb-8 md:mb-32 mt-14'>
